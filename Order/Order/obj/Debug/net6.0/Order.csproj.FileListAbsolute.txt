@@ -1,0 +1,14 @@
+C:\Projects\C#\Order\Order\obj\Debug\net6.0\Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C#\Order\Order\obj\Debug\net6.0\Order.AssemblyInfoInputs.cache
+C:\Projects\C#\Order\Order\obj\Debug\net6.0\Order.AssemblyInfo.cs
+C:\Projects\C#\Order\Order\obj\Debug\net6.0\Order.csproj.CoreCompileInputs.cache
+C:\Projects\C#\Order\Order\bin\Debug\net6.0\Order.exe
+C:\Projects\C#\Order\Order\bin\Debug\net6.0\Order.deps.json
+C:\Projects\C#\Order\Order\bin\Debug\net6.0\Order.runtimeconfig.json
+C:\Projects\C#\Order\Order\bin\Debug\net6.0\Order.dll
+C:\Projects\C#\Order\Order\bin\Debug\net6.0\Order.pdb
+C:\Projects\C#\Order\Order\obj\Debug\net6.0\Order.dll
+C:\Projects\C#\Order\Order\obj\Debug\net6.0\refint\Order.dll
+C:\Projects\C#\Order\Order\obj\Debug\net6.0\Order.pdb
+C:\Projects\C#\Order\Order\obj\Debug\net6.0\Order.genruntimeconfig.cache
+C:\Projects\C#\Order\Order\obj\Debug\net6.0\ref\Order.dll
